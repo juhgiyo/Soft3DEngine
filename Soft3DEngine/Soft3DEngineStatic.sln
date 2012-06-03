@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WGSoft3DFoundationStatic", "Foundation\WGSoft3DFoundationStatic.vcproj", "{DD8BE87D-86D0-4C0E-BA44-2894A40793F3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WGSoft3DOmapGLRendererStatic", "Renderers\OmapGLRenderer\WGSoft3DOmapGLRendererStatic.vcproj", "{1B4B4BFB-7812-4A89-8832-0D763F6107BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD8BE87D-86D0-4C0E-BA44-2894A40793F3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DD8BE87D-86D0-4C0E-BA44-2894A40793F3}.Debug|Win32.Build.0 = Debug|Win32
+		{DD8BE87D-86D0-4C0E-BA44-2894A40793F3}.Release|Win32.ActiveCfg = Release|Win32
+		{DD8BE87D-86D0-4C0E-BA44-2894A40793F3}.Release|Win32.Build.0 = Release|Win32
+		{1B4B4BFB-7812-4A89-8832-0D763F6107BB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1B4B4BFB-7812-4A89-8832-0D763F6107BB}.Debug|Win32.Build.0 = Debug|Win32
+		{1B4B4BFB-7812-4A89-8832-0D763F6107BB}.Release|Win32.ActiveCfg = Release|Win32
+		{1B4B4BFB-7812-4A89-8832-0D763F6107BB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

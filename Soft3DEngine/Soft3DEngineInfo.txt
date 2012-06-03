@@ -1,0 +1,21 @@
+Include Folders
+- .,./EngineSource,./EngineSource/System,./EngineSource/SharedArrays,./EngineSource/SceneGraph,./EngineSource/Rendering,./EngineSource/ObjectSystem,./EngineSource/Mathematics,./EngineSource/Effect,./EngineSource/Controllers,./EngineSource/Containment,./EngineSource/Collision,./EngineSource/Shaders,./EngineSource/Effects,./EngineSource/Intersection
+
+Depending on Fixed
+- ColorRGB
+- ColorRGBA
+- Frustum3
+- Renderer
+- Texture
+- AlphaState
+- FogState
+- MaterialState
+- PolygonOffsetState
+- All SceneGraph Classes
+- CachedVector2Array.h & .cpp
+- CachedVector3Array.h & .cpp
+
+WgStringTree.h
+- WgLine3 Excluded
+- WgQuaternion Excluded
+
